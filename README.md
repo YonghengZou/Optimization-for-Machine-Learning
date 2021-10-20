@@ -1,4 +1,4 @@
-# optimiztion
+# Optimization for Machine Learning
 ## a: Machine Learning Problems and Solutions via Optimization
 001 Taylor approximation 1st order for 1 dimension\
 002 Taylor approximation 2nd order for 1 dimension\
