@@ -1,6 +1,6 @@
 # Optimization for Machine Learning
-## a: Machine Learning Problems and Solutions via Optimization
-001. Taylor approximation 1st order for 1 dimension
-002. Taylor approximation 2nd order for 1 dimension
-003. Taylor approximation 1st order for 2 dimension
-004. Taylor approximation 2nd order for 2 dimension
+## Chapter1: Machine Learning Problems and Solutions via Optimization
+1. Taylor approximation 1st order for 1 dimension
+2. Taylor approximation 2nd order for 1 dimension
+3. Taylor approximation 1st order for 2 dimension
+4. Taylor approximation 2nd order for 2 dimension
