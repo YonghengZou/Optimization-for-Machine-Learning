@@ -5,3 +5,8 @@
 3. Taylor approximation 1st order for 2 dimension
 4. Taylor approximation 2nd order for 2 dimension
 5. Logistic regression classification optimized by Newton method demo
+6. Logistic regression classification optimized by Gradient descent
+
+
+
+If you find any problems, please email yonghengzou@uvic.ca
