@@ -9,4 +9,6 @@
 
 
 
-If you find any problems, please email yonghengzou@uvic.ca
+All the optimization methods are implemented by MATLAB.
+
+If you find any problems, please email yonghengzou@uvic.ca.
