@@ -4,4 +4,4 @@
 2. Taylor approximation 2nd order for 1 dimension
 3. Taylor approximation 1st order for 2 dimension
 4. Taylor approximation 2nd order for 2 dimension
-5. Logistic regression optimized by Newton method demo
+5. Logistic regression classification optimized by Newton method demo
