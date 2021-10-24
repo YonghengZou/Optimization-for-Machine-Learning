@@ -7,7 +7,7 @@
 - [Logistic regression classification optimized by Newton method demo](https://github.com/YonghengZou/Optimization-for-Machine-Learning/blob/main/markDown/a005_logistic_regression_newton_demo.pdf)
 - [Logistic regression classification optimized by Gradient descent](https://github.com/YonghengZou/Optimization-for-Machine-Learning/blob/main/markDown/a006_logistic_regression_gradient_demo.pdf)
 - [Logistic regression binary classification based on Newton method](https://github.com/YonghengZou/Optimization-for-Machine-Learning/blob/main/markDown/a007_logistic_regression_newton_binary.pdf)
-- [Logistic regression multi classification based on Newton method](https://github.com/YonghengZou/Optimization-for-Machine-Learning/blob/main/markDown/a008.pdf)
+- [Logistic regression multi-classification based on Newton method](https://github.com/YonghengZou/Optimization-for-Machine-Learning/blob/main/markDown/a008.pdf)
 
 # Statement
 All the optimization methods are implemented by MATLAB.
