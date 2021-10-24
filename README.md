@@ -6,8 +6,8 @@ a003. Taylor approximation 1st order for 2 dimension\
 a004. Taylor approximation 2nd order for 2 dimension\
 a005. Logistic regression classification optimized by Newton method demo\
 a006. Logistic regression classification optimized by Gradient descent\
-a007. Logistic regression binary classification based on Newton
-
+a007. Logistic regression binary classification based on Newton method\
+a008. Logistic regression multi classification based on Newton method
 
 
 All the optimization methods are implemented by MATLAB.
