@@ -12,4 +12,4 @@ a007. Logistic regression binary classification based on Newton
 
 All the optimization methods are implemented by MATLAB.
 
-If you find any problems, please email yonghengzou@uvic.ca.
+If you find any problem, please email yonghengzou@uvic.ca.
