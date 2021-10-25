@@ -14,4 +14,4 @@
 All the optimization methods are implemented by MATLAB.
 I have placed all the source code in code file. 
 
-If you find any problem, please email yonghengzou@uvic.ca.
+If you find any problem and want to give me any feedback, please email yonghengzou@uvic.ca.
