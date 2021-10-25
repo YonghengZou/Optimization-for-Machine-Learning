@@ -10,7 +10,7 @@
 - [Logistic regression binary classification based on Newton method](https://github.com/YonghengZou/Optimization-for-Machine-Learning/blob/main/markDown/a007_logistic_regression_newton_binary.pdf)
 - [Logistic regression multi-classification based on Newton method](https://github.com/YonghengZou/Optimization-for-Machine-Learning/blob/main/markDown/a008.pdf)
 
-# Statement
+## Statement
 All the optimization methods are implemented by MATLAB.
 I have placed all the source code in code file. 
 
